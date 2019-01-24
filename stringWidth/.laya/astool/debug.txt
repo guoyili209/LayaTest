@@ -1,0 +1,19 @@
+1,0.00,,0,Project command:c:\Users\guoyi\Desktop\laya\example\LayaTest\stringWidth/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:c:\Users\guoyi\Desktop\laya\example\LayaTest\stringWidth/.actionScriptProperties.
+1,0.00,,0,output path:c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/bin/h5/
+1,0.00,,0,Main Class:c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/src/LayaSample.as
+1,0.00,,0,output file:LayaSample
+1,0.00,,0,compilerSourcePath c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/libs/laya/src/
+
+1,0.00,,0,Compile Path:c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/src/
+
+1,0.00,,0,Compile Path:c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/libs/laya/src/
+
+1,0.00,c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/src,0,Collect
+1,0.00,c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.78,,0,Disable Flash3D c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/src/LayaSample.as
+12,89.78,c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/bin/h5/LayaSample.max.js,829234,
+11,89.78,c:/Users/guoyi/Desktop/laya/example/LayaTest/stringWidth/bin/h5/LayaSample.max.html,893,
+******************************************************************************
+14,89.78,,0,
